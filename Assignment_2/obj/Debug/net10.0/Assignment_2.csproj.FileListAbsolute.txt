@@ -1,0 +1,14 @@
+E:\CF_contest\Assignment_2\Assignment_2\bin\Debug\net10.0\Assignment_2.exe
+E:\CF_contest\Assignment_2\Assignment_2\bin\Debug\net10.0\Assignment_2.deps.json
+E:\CF_contest\Assignment_2\Assignment_2\bin\Debug\net10.0\Assignment_2.runtimeconfig.json
+E:\CF_contest\Assignment_2\Assignment_2\bin\Debug\net10.0\Assignment_2.dll
+E:\CF_contest\Assignment_2\Assignment_2\bin\Debug\net10.0\Assignment_2.pdb
+E:\CF_contest\Assignment_2\Assignment_2\obj\Debug\net10.0\Assignment_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\CF_contest\Assignment_2\Assignment_2\obj\Debug\net10.0\Assignment_2.AssemblyInfoInputs.cache
+E:\CF_contest\Assignment_2\Assignment_2\obj\Debug\net10.0\Assignment_2.AssemblyInfo.cs
+E:\CF_contest\Assignment_2\Assignment_2\obj\Debug\net10.0\Assignment_2.csproj.CoreCompileInputs.cache
+E:\CF_contest\Assignment_2\Assignment_2\obj\Debug\net10.0\Assignment_2.dll
+E:\CF_contest\Assignment_2\Assignment_2\obj\Debug\net10.0\refint\Assignment_2.dll
+E:\CF_contest\Assignment_2\Assignment_2\obj\Debug\net10.0\Assignment_2.pdb
+E:\CF_contest\Assignment_2\Assignment_2\obj\Debug\net10.0\Assignment_2.genruntimeconfig.cache
+E:\CF_contest\Assignment_2\Assignment_2\obj\Debug\net10.0\ref\Assignment_2.dll
